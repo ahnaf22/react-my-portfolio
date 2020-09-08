@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Ahnaf Ahmad",
+    "occupation": "React JS Developer",
+    "description": "Freelance Full stack Developer who is curious to learn new techs",
+    "image": "pp.png",
+    "bio": "Hello its Ahnaf, I'm a Full Stack ReactJS Developer.Always keen to learn new things about coding. Graphic designing is my hobby.Currently I am open to any job offer related to ReactJS ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ahnafahmad2013@gmail.com",
+    "phone": "+8801953593181",
+    "address": {
+      "street": "219/ka Bhuiyanpara",
+      "city": "Dhaka",
+      "state": "",
+      "zip": "1219"
+    },
+    "website": "https://github.com/ahnaf22",
+    "resumedownload": "https://drive.google.com/file/d/1biesVlNNG3ieq36PSbC-6-aIM1v9C-oj/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bazar.man.505",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahnafshoumik19",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ahnaf19/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ahnaf22",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my skills that I possess",
+    "education": [
+      {
+        "school": "Jahangirnagar University",
+        "degree": "Masters in Computer Science",
+        "graduated": "March 2020",
+        "description": "Graduated "
+      },
+      {
+        "school": "Ahsanullah University of Science and Technology",
+        "degree": "Bachelors Degree in Computer Science and Engineering",
+        "graduated": "July 2018",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fiverr.com",
+        "title": "Freelance Programmer",
+        "years": "June 2016 - july 2017",
+        "description": "Worked as a freelance programmer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "Laravel",
+        "level": "70%"
+      },
+      {
+        "name": "Mysql",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "85%"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Social App Clone",
+        "category": "Instagram Clone with ReactJS and Firebase",
+        "image": "port-insta.PNG",
+        "url": "https://react-social-appclone.netlify.app/"
+      },
+      {
+        "title": "Movie Database Clone(Hulu)",
+        "category": "Hulu CLone Made with ReactJS and TMDB Api",
+        "image": "port-movie.PNG",
+        "url": "https://moviedb-clone.netlify.app/"
+      },
+      {
+        "title": "Photo Gallery",
+        "category": "Simple react photo gallery with firebase ",
+        "image": "port-gallery.PNG",
+        "url": "https://photo-gallery-1994.netlify.app/"
+      },
+      {
+        "title": "Company Portfolio website",
+        "category": "One page Company portfolio website with Bootstrap and Jquery",
+        "image": "port-company.PNG",
+        "url": "https://company-portfolio2016.netlify.app/"
+      },
+      {
+        "title": "Ecommerce Website",
+        "category": "Ecommerce website with php,js and mysql",
+        "image": "port-bechakena.PNG",
+        "url": "http://bechakena.epizy.com/index.php"
+      },
+      {
+        "title": "Food based Ecommerce website",
+        "category": "Ecommerce website with Laravel framework",
+        "image": "port-food.PNG",
+        "url": "http://foodhunterbd.epizy.com/public/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have seen several of his design works for Universty fests, projects, sports tournaments etc. He is one of the very best I have ever seen when it comes to design sense. But this is not what made me write this recommendation. It was a very smooth journey to work with him on several projects. I strongly recommend him if you are looking for a helpful, kind, empathetic, energetic team-player with an awesome sense of design.",
+        "user": "Rashid Hasan"
+      },
+      {
+        "text": "He is very a very hard working and efficient and trustworthy person.Was a competetive programmer in university life who has a clear programing knowledge. A very good web developer. Also holds good knowledge in mobile app development ",
+        "user": "Rafsan Jani"
+      }
+    ]
+  }
+}
