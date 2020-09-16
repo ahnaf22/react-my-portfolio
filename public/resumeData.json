@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/bazar.man.505",
+        "url": "https://www.facebook.com/",
         "className": "fa fa-facebook"
       },
       {
@@ -143,6 +143,12 @@
         "category": "Ecommerce website with Laravel framework",
         "image": "port-food.PNG",
         "url": "http://foodhunterbd.epizy.com/public/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone with reactJS and firebase. Stripe payment added",
+        "image": "port-amazonclone.PNG",
+        "url": "https://clone-fbff7.web.app/"
       }
     ]
   },
