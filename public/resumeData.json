@@ -149,6 +149,12 @@
         "category": "Amazon clone with reactJS and firebase. Stripe payment added",
         "image": "port-amazonclone.PNG",
         "url": "https://clone-fbff7.web.app/"
+      },
+      {
+        "title": "Covid Checker",
+        "category": "Covid 19 predictor using reactJS",
+        "image": "port-covid.PNG",
+        "url": "https://covid-checker2020.netlify.app/"
       }
     ]
   },
