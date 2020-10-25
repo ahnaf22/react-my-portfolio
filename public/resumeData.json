@@ -155,6 +155,12 @@
         "category": "Covid 19 predictor using reactJS",
         "image": "port-covid.PNG",
         "url": "https://covid-checker2020.netlify.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "discord with text channels using react JS",
+        "image": "port-discord.PNG",
+        "url": "https://discord-clone-2bab4.web.app/"
       }
     ]
   },
